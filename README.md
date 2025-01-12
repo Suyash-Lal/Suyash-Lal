@@ -2,7 +2,7 @@
 <h3 align="center">Currently pursuing an Inter-disciplinary post-graduate diploma at FLAME University.</h3>
 
 <h3 align="left">About Me:</h3>
-<p align="left">I am a passionate programmer and developer with a keen interest in the fields of Artificial Intelligence, Machine Learning, and Extended Reality (AR/VR). My projects include immersive VR simulations for medical education, such as a CPR simulation with haptic feedback and heatmaps for interactive learning.</p>
+<p align="left">I am a passionate programmer and developer with an interest in the fields of Extended Reality (AR/VR), Machine Learning, and Artificial Intelligence. My projects include VR simulations for medical education, such as a CPR simulation with haptic feedback and visual information for interactive learning.</p>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -15,7 +15,6 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a>
-
 </p>
 
 <h3 align="left">Tools:</h3>
@@ -32,5 +31,4 @@
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>  
   </a>
-
 </p>
