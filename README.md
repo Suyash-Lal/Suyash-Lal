@@ -1,8 +1,8 @@
-<h1 align="center">Hey there, I'm Suyash Lal</h1>
+  <h1 align="center">Hey there, I'm Suyash Lal</h1>
 <h3 align="center">Currently pursuing an Inter-disciplinary post-graduate diploma at FLAME University.</h3>
 
 <h3 align="left">About Me:</h3>
-<p align="left">I am a passionate programmer and developer with a keen interest in the fields of Artificial Intelligence, Machine Learning, and Extended Reality (AR/VR). My projects include immersive VR simulations for medical education, such as a kidney transplant procedure and a CPR simulation with haptic feedback and heatmaps for interactive learning.</p>
+<p align="left">I am a passionate programmer and developer with a keen interest in the fields of Artificial Intelligence, Machine Learning, and Extended Reality (AR/VR). My projects include immersive VR simulations for medical education, such as a CPR simulation with haptic feedback and heatmaps for interactive learning.</p>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
