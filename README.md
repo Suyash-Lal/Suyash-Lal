@@ -3,8 +3,8 @@
 
 <h3 align="left">About Me:</h3>
 <p align="left">
-  I am a passionate programmer and developer with an interest in the fields of Extended Reality (AR/VR), Machine Learning, and Artificial Intelligence.  
-  My projects include VR simulations for medical education, such as a CPR simulation with haptic feedback and visual information for interactive learning.
+  I am a programmer and developer with an interest in the fields of Extended Reality (AR/VR), Machine Learning, and Artificial Intelligence.  
+  My projects include VR simulations for medical education, such as a CPR simulation with haptic feedback and visual information for interactive learning, and audio processing for guitar.
 </p>
 
 <h3 align="left">Languages:</h3>
