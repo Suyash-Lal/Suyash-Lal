@@ -1,6 +1,6 @@
 # Hey there! I'm Suyash Lal 👋
 
-<h3 align="center">FLAME Scholars Program graduate specializing in Extended Reality (AR/VR) and Machine Learning</h3>
+<h3 align="center">Computer Science Honors graduate</h3>
 
 <p align="center">
   <a href="mailto:suyash.a.lal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
