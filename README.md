@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a programmer and developer passionate about **Extended Reality (AR/VR)**, **Machine Learning**, and **Human-Computer Interaction**. I'm a graduate of the interdisciplinary post-graduate diploma program at FLAME University.
+I'm a programmer and developer passionate about **Extended Reality (AR/VR)**, **Machine Learning**, and **Human-Computer Interaction**. I'm a graduate of the interdisciplinary post-graduate diploma and Computer Science (Honors) programs at FLAME University.
 
 - 🥽 Building VR simulations for medical education with haptic feedback
 - 🎸 Developing AI-powered audio analysis systems for music
