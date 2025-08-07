@@ -48,7 +48,6 @@ I'm a programmer and developer passionate about **Extended Reality (AR/VR)**, **
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=VR%2FAR+Developer;Unity+%26+C%23+Developer;Machine+Learning+Enthusiast;Computer+Science+Honors+Graduate" />
 </p>
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Suyash-Lal&color=blueviolet&style=flat-square" />
